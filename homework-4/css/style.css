@@ -1,0 +1,51 @@
+@import url("reset.css");
+
+h1, h2 {
+  color: chocolate;
+}
+
+div {
+  color: blue;
+}
+
+.list-item1 {
+  color: red;
+}
+
+#item-2 {
+  color: yellow;
+}
+
+p.paragraph {
+  color: brown;
+}
+
+.some-text p {
+  color: greenyellow;
+}
+
+.some-text .paragraph{
+  color: crimson;
+}
+
+.first-item > .paragraph {
+  color: darkblue;
+}
+
+[target="_blank"]{
+  color: rgb(18, 4, 59);
+}
+
+.some-text ~ p {
+  color: grey;
+}
+
+
+
+footer {
+  color: blue;
+}
+
+footer > p {
+  color: red !important;
+}
