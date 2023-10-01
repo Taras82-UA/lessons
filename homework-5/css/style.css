@@ -1,0 +1,185 @@
+
+/*------------------- Підключення шрифтів ------------------------- */
+@import url(fonts.css);
+
+/* Скидання стилів */
+@import url(reset.css);
+
+
+/* Основні стилі Завдання №1*/
+body {
+  font-family: "Inter", sans-serif;
+}
+
+.task1 {
+  max-width: 900px;
+  border-bottom: 1px solid gray;
+  margin: 0 auto 10px auto;
+}
+.intro {
+  margin-top: 20px;
+}
+
+img {
+  width: 900px;
+  margin-bottom: 10px;
+}
+
+.title-fonts {
+  text-align: center;
+  color: blue;
+  font-size: 36px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.intro ul {
+  margin-bottom: 30px;
+}
+
+.intro ul li {
+  font-size: 28px;
+  font-weight: 400;
+  color: rgb(70, 70, 158);
+  margin-bottom: 10px;
+
+}
+
+.intro ul li span {
+  text-decoration: underline;
+}
+
+.fonts p {
+  font-size: 22px;
+  font-weight: 400;
+  text-align: justify;
+  margin-bottom: 15px;
+  text-indent: 35px;
+  line-height: 2.4;
+}
+
+.fonts h2 {
+  font-size: 28px;
+  text-shadow: 5px 5px 3px #c72d2d;
+}
+
+#mariupol, .font1 {
+  font-family: "Mariupol", serif;
+}
+
+.font1-bold {
+  font-family: "Mariupol-Bold", serif;
+}
+
+#lutsk, .font2 {
+  font-family: "Lutsk-city";
+}
+
+#namu {
+  font-family: "NAMU-1990";
+}
+
+.font3 {
+  font-family: "NAMU-1930";
+}
+
+#Kharkiv-tone, .font4 {
+  font-family: "Kharkiv-Tone-04102020";
+}
+
+#arsenal, .font5 {
+  font-family: "Arsenal";
+}
+.font5-bold {
+  font-family: "Arsenal-Bold";
+}
+
+#volja, .font6 {
+  font-family: "Volja";
+}
+
+
+.fonts p span {
+  font-size: 24px;
+  font-weight: 400;
+  color: red;
+}
+
+.autor {
+  font-style: oblique;
+
+}
+
+.fonts p a {
+  text-transform: uppercase;
+  text-decoration: underline;
+  color: blue;
+}
+
+/* Основні стилі завдання №2 */
+
+.task2 {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.title {
+  color: #37393F;
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 127%; /* 38.1px */
+}
+
+.text p {
+  color: #7D7D7D;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 146.187%; /* 26.314px */
+  text-align: justify;
+}
+
+.sub-title {
+  color: #6B77E5;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 127%; /* 25.4px */
+} 
+
+.sub-title2 {
+  color: #37393F;
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 127%; /* 50.8px */
+}
+
+.main-item-cons {
+  color: #7D7D7D;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 146.187%; /* 26.314px */
+}
+
+.main-item-cons {
+  text-indent: 10px;
+}
+
+footer {
+  font-family: "NAMU-1990";
+  color: #6B77E5;
+  text-align: center;
+  text-transform: uppercase;
+	letter-spacing: 7px;
+}
+
+footer span {
+  text-decoration: line-through red;
+}
+
+
+
+
+
