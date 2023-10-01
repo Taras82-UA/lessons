@@ -1,0 +1,104 @@
+
+/* ========================= ШРИФТИ =============================== */
+
+
+/* Google Fonts */
+@import url("https://fonts.googleapis.com/css?family=Inter:regular,500,600,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Poppins:regular,600,700&display=swap");
+
+
+
+/* Підключення шрифтів вручну */
+
+@font-face {
+	font-family: "Arsenal";
+	src:
+		url("../fonts/Arsenal-Regular.woff2") format("woff2"),
+		url("../fonts/Arsenal-Regular.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "Arsenal-Bold";
+	src:
+		url("../fonts/Arsenal-Bold.woff2") format("woff2"),
+		url("../fonts/Arsenal-Bold.woff") format("woff");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "Mariupol";
+	src:
+		url("../fonts/Mariupol-Regular.woff2") format("woff2"),
+		url("../fonts/Mariupol-Regular.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+
+@font-face {
+	font-family: "Mariupol-Bold";
+	src:
+		url("../fonts/Mariupol-Bold.woff2") format("woff2"),
+		url("../fonts/Mariupol-Bold.woff") format("woff");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+
+@font-face {
+	font-family: "Volja";
+	src:
+		url("../fonts/Volja-Regular.woff2") format("woff2"),
+		url("../fonts/Volja-Regular.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "Kharkiv-Tone-04102020";
+	src:
+		url("../fonts/Kharkiv-Tone-04102020.woff2") format('woff2'),
+		url("../fonts/Kharkiv-Tone-04102020.woff") format('woff');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "NAMU-1930";
+	src:
+		url("../fonts/NAMU-1930.woff2") format('woff2'),
+		url("../fonts/NAMU-1930.woff") format('woff');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "NAMU-1990";
+	src:
+		url("../fonts/NAMU-1990.woff2") format('woff2'),
+		url("../fonts/NAMU-1990.woff") format('woff');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+
+@font-face {
+	font-family: "Lutsk-city";
+	src:
+		url("../fonts/Lutsk-сity.woff2") format('woff2'),
+		url("../fonts/Lutsk-сity.woff") format('woff');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
