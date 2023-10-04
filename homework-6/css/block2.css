@@ -1,0 +1,46 @@
+.block2 {
+  max-width: 1170px;
+  margin: 0 auto 300px auto;
+  background-color: #fffefe;
+}
+
+.left-block {
+  display: inline-block;
+  max-width: 563px;
+  margin-right: 27.5px;
+}
+
+.sub-title-left-block {
+  color: #D06B00;
+  font-size: 28px;
+  font-weight: 400;
+  padding-top: 21px;
+  margin-bottom: 13px;
+}
+
+.title-left-block {
+  color: #0E333D;
+  font-family: 'DM Serif Text';
+  font-size: 59px;
+  font-weight: 400;
+  line-height: 1.465;
+  margin-bottom: 25px;
+}
+
+.text-left-block {
+  color: #474747;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 1.8;
+}
+
+.image-jew1, .image-jew2 {
+width: 273px;
+}
+
+.image-jew1 {
+margin-right: 22px;
+}
+
+
+
