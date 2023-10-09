@@ -1,0 +1,17 @@
+/* Підключення шрифтів */
+@import url('fonts.css');
+
+/* Скидання стилів */
+@import url('reset.css');
+
+/* Стилізація header та блоку 1*/
+@import url('block1.css');
+
+/* Стилізація блоку 2 */
+@import url('block2.css');
+
+/* Стилізація блоку 3 */
+@import url('block3.css');
+
+/* Стилізація блоку 4 */
+@import url('block4.css');

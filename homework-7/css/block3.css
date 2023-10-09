@@ -1,0 +1,85 @@
+
+.block3 {
+  max-width: 1175px;
+  margin: 0 auto 150px;
+  font-size: 0;
+}
+
+.left-block {
+  display: inline-block;
+  max-width: 503px;
+  padding: 70px 0;
+  margin-right: 75px;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.left-block-label, .left-block-title, .left-block p {
+  font-family: "Cormorant Infant";
+  font-weight: 700;
+
+}
+
+.left-block-label {
+  color: #D58417;
+  font-size: 20px;
+  margin-bottom: 27px;
+}
+
+.left-block-title {
+  color: #000;
+  font-size: 64px;
+  margin-bottom: 31px;
+}
+
+.left-block p {
+  color: #606060;
+  font-size: 30px;
+  line-height: 1.4;
+}
+
+.right-block {
+  width: 597px;
+  margin: 0 auto;
+  vertical-align: top;
+  display: inline-block;
+  font-size: 0;
+}
+
+.wrapper-image {
+  vertical-align: middle;
+  display: inline-block;
+  border: 1px solid #502203;
+  border-radius: 235px;
+}
+
+.wrapper-image img {
+  border-radius: 235px;
+
+}
+
+img {
+  vertical-align: top;
+}
+
+.first-image {
+  margin-right: 30px;
+  width: 177px;
+  height: 336px;
+}
+
+.first-image img {
+  margin-left: -10px;
+  padding-top: 14px;
+
+}
+
+.second-image {
+  width: 307px;
+  height: 500px;
+}
+
+.second-image img {
+  margin-left: -11px;
+  padding-top: 19px;
+}

@@ -1,0 +1,42 @@
+.block4 {
+  max-width: 1219px;
+  margin: 0 auto 150px;
+}
+
+.block4-main-title {
+  color: #3C4242;
+  font-family: "Core Sans C 65";
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 1.19;
+  letter-spacing: 0.56px;
+  margin-bottom: 30px;
+}
+
+.block4-sub-title {
+  color: #807D7E;
+  font-family: "Core Sans C 65";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 1.67;
+  letter-spacing: 0.4px;
+  margin-bottom: 25px;
+}
+
+.block4 p {
+  color: #807D7E;
+  font-family: "Causten" sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 1.67;
+  letter-spacing: 0.4px;
+  margin-bottom: 20px;
+}
+.block4 .pre-last {
+  margin-bottom: 25px;
+}
+
+.block4 p span{
+  font-weight: 700;
+}
