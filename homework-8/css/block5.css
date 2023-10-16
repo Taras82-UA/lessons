@@ -62,7 +62,7 @@
 }
 
 .image-background {
-  background-image: url("/img/trees.jpg");
+  background-image: URL("../img/trees.jpg");
 }
 
 .background-lineal {
@@ -70,12 +70,12 @@
 }
 
 .image-cover {
-  background-image: url("/img/trees.jpg");
+  background-image: URL("../img/trees.jpg");
   background-size: cover;
 }
 
 .image-size {
-  background-image: url("../img/freelancer.jpg");
+  background-image: URL("../img/freelancer.jpg");
   background-position: 0 0;
   background-size: 150px 150px;
   background-repeat: no-repeat;
@@ -83,5 +83,5 @@
 }
 
 .background-several {
-  background: url("../img/trees.jpg") no-repeat 0 50% / 200px, linear-gradient(55.95deg, rgba(184, 132, 131, 0.3) 0%, rgba(56, 32, 18, 0.3) 100%), url("/img/freelancer.jpg") no-repeat right center / 75px;
+  background: URL("../img/trees.jpg") no-repeat 0 50% / 200px, linear-gradient(55.95deg, rgba(184, 132, 131, 0.3) 0%, rgba(56, 32, 18, 0.3) 100%), URL("../img/freelancer.jpg") no-repeat right center / 75px;
 }
