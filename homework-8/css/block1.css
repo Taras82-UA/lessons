@@ -1,0 +1,192 @@
+body {
+  font-family: "Inter", sans-serif;
+	color: #7d7d7d;
+	font-size: 18px;
+
+}
+
+main {
+  padding-bottom: 70px;
+}
+
+/* Стилізації header */
+.header {
+  padding-left: 40px;
+  padding-top: 50px;
+  margin-bottom: 40px;
+  border-bottom: 1px solid gray;
+}
+
+h1 {
+  max-width: 550px;
+  text-align: center;
+  min-height: 50px;
+  margin: 25px auto;
+  font-size: 45px;
+  font-weight: 600;
+  color: burlywood;
+  border: 7px solid #40ddb6;
+  border-radius: 25px;
+  box-shadow: 10px 10px 10px 5px #b4a6a6;
+  padding: 15px;
+
+}
+
+.header p {
+  margin-bottom: 20px;
+  font-size: 35px;
+}
+
+.table-content li {
+  margin-bottom: 15px;
+}
+
+li a:hover {
+  text-decoration: underline;
+}
+
+li a span{
+  font-style: italic;
+}
+
+/* Основні стиді частини №1 домашньої роботи */
+
+.block1 {
+  max-width: 703px;
+  margin: 0 auto 60px auto;
+  padding: 70px 15px 145px 15px;
+}
+
+.block1-sub-title,
+.block1-title,
+.business-plan-list,
+.business-plan-advantages-title {
+  color: #37393F;
+}
+
+.block1-title, .business-plan-list-item,
+.business-plan-advantages-title {
+  font-family: 'Poppins';
+}
+
+.block1-sub-title {
+  font-size: 18px;
+  font-weight: 500;
+  min-height: 22px;
+  line-height: 1.22;
+  background: url('../img/block1/Box.svg') 0 5px / 12px 12px no-repeat;
+  padding-left: 18px;
+  margin-bottom: 16px;
+}
+
+.block1-title {
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 1.21;
+  margin-bottom: 20px;
+  padding-top: 20px;
+}
+
+.block1-text {
+  font-weight: 400;
+  line-height: 1.46;
+  margin-bottom: 20px;
+}
+
+.block1-text-paragraph1 {
+  margin-bottom: 15px;
+}
+
+.business-plan-list {
+
+  margin-bottom: 43px;
+}
+
+.business-plan-list li~li {
+  margin-top: 23px;
+}
+
+.business-plan-list-item {
+  font-size: 20px;
+  font-weight: 400;
+  min-height: 33px;
+  line-height: 1.5;
+  padding-left: 35px;
+  background: url('../img/block1/Vector.jpg') 0 0 / 27px 27px no-repeat;
+}
+
+
+.business-plan-advantages {
+  margin-bottom: 37px;
+
+}
+
+.business-plan-advantages li~li {
+  margin-left: 21px;
+}
+
+.business-plan-advantages-item {
+  border: 1px solid #E3E3E3;
+  padding: 31px 32px 32px 32px;
+  display: inline-block;
+  width: 295px;
+}
+
+
+.business-plan-advantages-content {
+  min-height: 40px;
+  padding-left: 58.5px;
+}
+
+.advantages-left {
+  background: url('../img/block1/Icon1_svg.svg') 0 0 / 40px 40px no-repeat;
+}
+
+.advantages-right {
+  background: url('../img/block1/Icon2_svg.svg') 0 0 / 40px 40px no-repeat;
+}
+
+.business-plan-advantages-title {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.5;
+  margin-bottom: 3px;
+}
+
+.business-plan-advantages-text {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.35;
+}
+
+.business-plan-button {
+
+  background-color: #6B77E5;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 600;
+  display: inline-block;
+  padding: 22px 27px;
+}
+
+
+/* Стилізація підвалу */
+
+.basement{
+  text-align: center;
+  font-size: 35px;
+  font-weight: 600;
+  color: burlywood;
+  border: 7px solid #40ddb6;
+  border-radius: 20px;
+  box-shadow: 10px 10px 10px 5px #b4a6a6;
+  max-width: 490px;
+  min-height: 55px;
+  margin: 0 auto;
+  vertical-align: baseline;
+}
+
+.basement:active {
+  box-shadow: none;
+}
