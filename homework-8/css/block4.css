@@ -1,0 +1,65 @@
+.block4 {
+  max-width: 1240px;
+  color: #fff;
+  margin: 100px auto 125px;
+  font-family: 'Causten';
+  padding-top: 40px;
+}
+
+
+.fashion-container {
+  border-radius: 10px;
+  font-size: 0;
+  overflow: hidden;
+}
+
+.fashion-left,
+.fashion-right {
+  height: 640px;
+  display: inline-block;
+}
+
+
+.fashion-left {
+  max-width: 614px;
+  background: url(../img/block4/fashion_img1.jpg);
+  padding: 183px 74px 175px;
+}
+
+.fashion-title {
+  font-size: 34px;
+  font-weight: 800;
+  line-height: 1.47;
+  letter-spacing: 0.2px;
+  margin-bottom: 30px;
+}
+
+.fashion-text {
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 1.2;
+  letter-spacing: 1px;
+  margin-bottom: 50px;
+}
+
+
+.fashion-button{
+  border-radius: 8px;
+  padding: 12px 44px;
+  background-color: #fff;
+  font-weight: 600;
+  font-size: 18px;
+  color: #3C4242;
+  display: inline-block;
+}
+
+.fashion-right {
+  max-width: 626px;
+  width: 100%;
+  vertical-align: top;
+  background: url(../img/block4/fashion_img2.jpg);
+}
+
+
+
+

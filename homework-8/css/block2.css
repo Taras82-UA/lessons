@@ -1,0 +1,117 @@
+.block2 {
+  max-width: 1250px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 0 auto 150px auto;
+  font-size: 0;
+  padding-top: 30px;
+}
+
+.block2-header {
+  text-align: center;
+  max-width: 852px;
+  margin: 0 auto;
+  margin-bottom: 47px;
+}
+
+.block2-header-sub-title,
+.block2-header-title {
+  margin-bottom: 14px;
+}
+
+.block2-header-sub-title {
+  font-size: 18px;
+  font-weight: 500;
+  min-height: 22px;
+  line-height: 1.22;
+  background: url('../img/block1/Box.svg') 0 5px / 12px 12px no-repeat;
+  padding-left: 18px;
+  display: inline-block;
+}
+
+.block2-header-title {
+  color: #37393F;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 1.21;
+}
+
+.block2-header-text {
+  text-align: center;
+  font-weight: 400;
+  line-height: 1.46;
+}
+
+.row-first {
+  margin-bottom: 58px;
+}
+
+.projects-item {
+  display: inline-block;
+  width: 100%;
+  max-width: 384px;
+}
+
+.projects-img {
+  min-height: 501px;
+  max-width: 100%;
+  margin-bottom: 24px;
+}
+
+.projects-title {
+  line-height: 1.27;
+  margin-bottom: 10px;
+  font-size: 20px;
+  color: #37393F;
+  font-family: 'Poppins';
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.projects-date {
+  padding-left: 25px;
+  background: url('../img/block2/calendar.svg') no-repeat;
+  min-height: 22px;
+  font-size: 14px;
+  line-height: 1.46;
+}
+
+.item-first {
+  margin-right: 34px;
+}
+
+.item-first .projects-img {
+  background: url(../img/block2/projects_img1.jpg) center/ cover no-repeat;
+}
+
+.item-second {
+  margin-right: 34px;
+}
+
+.item-second .projects-img {
+  background: url(../img/block2/projects_img2.jpg) center/ cover no-repeat;
+}
+
+.item-third .projects-img {
+  background: url(../img/block2/projects_img3.jpg) center/ cover no-repeat;
+}
+
+.item-four {
+  margin-right: 34px;
+}
+  
+.item-four .projects-img {
+  background: url(../img/block2/projects_img4.jpg) center/ cover no-repeat;
+}
+  
+.item-five {
+  margin-right: 34px;
+}
+  
+.item-five .projects-img {
+  background: url(../img/block2/projects_img5.jpg) center/ cover no-repeat;
+}
+  
+.item-six .projects-img {
+  background: url(../img/block2/projects_img6.jpg) center/ cover no-repeat;
+}
