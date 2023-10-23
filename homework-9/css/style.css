@@ -420,6 +420,9 @@ h1:hover {
 	font-size: 60px;
 	line-height: 1.15;
 	margin-right: 31px;
+	background: url(../img/jewellery/Line.png) 0 100% no-repeat;
+	min-height: 82px;
+	padding-bottom: 13px;
 }
 
 .jewels__subtext, .jewels__price {
