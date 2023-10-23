@@ -356,11 +356,11 @@ h1:hover {
 
 /*===================================== block 4 Jewellery styling ===================================*/
 .block4 {
-	min-width: 1254;
+	min-width: 1254px;
 	font-family: 'Cormorant Infant';
 	font-weight: 700;
 	color: #000;
-	padding: auto 20px;
+	padding: 0 20px;
 	margin-bottom: 150px;
 }
 
@@ -684,7 +684,7 @@ h1:hover {
 	margin: 0 auto;
 	text-align: center;
 	color: #FFFF;
-	/* visibility: hidden; */
+	visibility: hidden;
 	font-size: 18px;
 	padding-top: 7px;
 }
@@ -712,9 +712,6 @@ h1:hover {
 	display:block;
 }
 
-/* .game-line-9:active ~ .game-title {
-	font-size: 0;
-} */
 
 
 /* footer styling */
@@ -743,5 +740,5 @@ h1:hover {
 footer {
 	text-align: center;
 	color: #000;
-	font-size: 12xp;
+	font-size: 11px;
 }
