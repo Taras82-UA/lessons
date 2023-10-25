@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css?family=Inter:regular,500,600&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Poppins:regular,500,600,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=DM+Serif+Text:regular&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Cormorant+Infant:700&display=swap");
+
+@font-face {
+  font-family: 'CracklingFire';
+  src: url(../css/font/CracklingFire.woff2) format('woff2'),
+      url('../css/font/CracklingFire.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
