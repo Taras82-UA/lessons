@@ -5,8 +5,8 @@
 
 @font-face {
   font-family: 'CracklingFire';
-  src: url('/css/font/CracklingFire.woff2') format('woff2'),
-      url('/css/font/CracklingFire.woff') format('woff');
+  src: url('../css/font/CracklingFire.woff2') format('woff2'),
+      url('../css/font/CracklingFire.woff') format('woff');
   font-weight: 100;
   font-style: normal;
   font-display: swap;
